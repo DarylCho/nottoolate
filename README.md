@@ -1,2 +1,2 @@
-﻿# Graduation Project source codes are likely to be uploaded in this repository
+﻿# Graduation Project's source codes are likely to be uploaded in this repository
  
